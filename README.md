@@ -31,4 +31,3 @@ Pour toute question ou collaboration, n’hésite pas à me contacter !
 
 ## Remarque
 Ce projet est réalisé dans un cadre académique et professionnel pour explorer l’application de l’IA aux Ressources Humaines, avec un focus sur l’éthique et l’impact RH.
-```
